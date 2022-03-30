@@ -1,2 +1,4 @@
-# js_learning
-My repo for tasks and experiments with JavaScript
+# JavaScript Learning Repo
+I use this repo to:
+- Save my JavaScript experiments
+- Save my results for exercises
